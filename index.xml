@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Lefteris Katsoulas</title>
+    <link>/</link>
+    <description>Recent content in Portfolio on Lefteris Katsoulas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BSc Diploma Thesis: Wireless sampling and representation of temperature and humidity data with ESP32 microcontroller</title>
+      <link>/post/thesis/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/thesis/</guid>
+      <description>[Better mention with Bullet points what you did and leave the abastract in your GitHub]
+ I did this #1 I did this #2 I did this #3 I did this #4  Abstract
+The subject of this thesis is the wireless recording and representation of temperature and humidity data with the ESP32 microcontroller. For this to be accomplished, the basic features of the microcontrollers, the basic information of the Arduino and the mode of operation (connectivity and structure) of the Internet Of Things (IoT) were analyzed.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>   Platform URL     GitHub: https://github.com/lefteriskats   LinkedIn: https://www.linkedin.com/in/lefteris-katsoulas/   Gmail: lefterislat1@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
